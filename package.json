@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daidaishuo/example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daidaishuo/example/issues"
+  },
+  "homepage": "https://github.com/daidaishuo/example#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
